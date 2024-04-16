@@ -1,18 +1,1 @@
-{
- "AdsVersion": "1.1",
- "ConfigPass": "key",
- "PatternPass": "2024",
- "UrlLink": "https:\/\/raw.githubusercontent.com\/AdminCris\/cyber-g\/main\/remote",
- "AppID": "ca-app-pub-3940256099942544~3347511713",
- "BannerID": "ca-app-pub-3940256099942544\/6300978111",
- "IntersID": "ca-app-pub-3940256099942544\/1033173712",
- "IntersVidID": "ca-app-pub-3940256099942544\/8691691433",
- "RewardedID": "ca-app-pub-3940256099942544\/5224354917",
- "RewardedIntersID": "ca-app-pub-3940256099942544\/5354046379",
- "OpenAdsID": "ca-app-pub-3940256099942544\/9257395921",
- "allowVpn": true,
- "allowRoot": false,
- "allowScreenshot": true,
- "Restricted": [],
- "Rooted": []
-}
+ewogIkFkc1ZlcnNpb24iOiAiMS4xIiwKICJDb25maWdQYXNzIjogImtleSIsCiAiUGF0dGVyblBhc3MiOiAiMjAyNCIsCiAiVXJsTGluayI6ICJodHRwczpcL1wvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbVwvQWRtaW5DcmlzXC9jeWJlci1nXC9tYWluXC9yZW1vdGUiLAogIkFwcElEIjogImNhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NH4zMzQ3NTExNzEzIiwKICJCYW5uZXJJRCI6ICJjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDRcLzYzMDA5NzgxMTEiLAogIkludGVyc0lEIjogImNhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NFwvMTAzMzE3MzcxMiIsCiAiSW50ZXJzVmlkSUQiOiAiY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0XC84NjkxNjkxNDMzIiwKICJSZXdhcmRlZElEIjogImNhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NFwvNTIyNDM1NDkxNyIsCiAiUmV3YXJkZWRJbnRlcnNJRCI6ICJjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDRcLzUzNTQwNDYzNzkiLAogIk9wZW5BZHNJRCI6ICJjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDRcLzkyNTczOTU5MjEiLAogImFsbG93VnBuIjogdHJ1ZSwKICJhbGxvd1Jvb3QiOiBmYWxzZSwKICJhbGxvd1NjcmVlbnNob3QiOiB0cnVlLAogIlJlc3RyaWN0ZWQiOiBbXSwKICJSb290ZWQiOiBbXQp9
