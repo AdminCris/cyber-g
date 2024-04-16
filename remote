@@ -1,1 +1,18 @@
-
+{
+ "AdsVersion": "1.1",
+ "ConfigPass": "key",
+ "PatternPass": "2024",
+ "UrlLink": "https:\/\/raw.githubusercontent.com\/AdminCris\/cyber-g\/main\/remote",
+ "AppID": "ca-app-pub-3940256099942544~3347511713",
+ "BannerID": "ca-app-pub-3940256099942544\/6300978111",
+ "IntersID": "ca-app-pub-3940256099942544\/1033173712",
+ "IntersVidID": "ca-app-pub-3940256099942544\/8691691433",
+ "RewardedID": "ca-app-pub-3940256099942544\/5224354917",
+ "RewardedIntersID": "ca-app-pub-3940256099942544\/5354046379",
+ "OpenAdsID": "ca-app-pub-3940256099942544\/9257395921",
+ "allowVpn": true,
+ "allowRoot": false,
+ "allowScreenshot": true,
+ "Restricted": [],
+ "Rooted": []
+}
